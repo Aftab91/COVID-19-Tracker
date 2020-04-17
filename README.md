@@ -4,10 +4,6 @@ Most people infected with the COVID-19 virus will experience mild to moderate re
 
 The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
 
-The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
-
-At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments. WHO will continue to provide updated information as soon as clinical findings become available.
-
 So, i thought it would be good and helpfull to bring this covid-19 tracker, As i having some small error in my code although it is displaying the Result..!
 
 By making use of this tracker we can fetch any country data of this covid-19 pandemic all over the world, This tracker fetches {Active cases,Deaths,Recovered,....etc!}
